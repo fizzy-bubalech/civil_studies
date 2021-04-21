@@ -1,0 +1,81 @@
+Person number 2 Who Voted for אחר: [4.0, 5.0, 5.0, 3.0, 3.0, 2.0, 2.0, 3.0, 2.0, 1.0, 1.0, 3.0, 1.0, 4.0] ==> Should have voted for ישראל ביתנו
+
+Person number 3 Who Voted for הימין החדש: [5.0, 5.0, 5.0, 4.0, 4.0, 4.0, 2.0, 4.0, 2.0, 3.0, 3.0, 2.0, 1.0, 2.0] ==> Should have voted for הימין החדש
+
+Person number 4 Who Voted for העבודה: [5.0, 5.0, 5.0, 4.0, 4.0, 3.0, 4.0, 5.0, 5.0, 5.0, 2.0, 3.0, 5.0, 5.0] ==> Should have voted for כחול לבן
+
+Person number 5 Who Voted for כחול לבן: [5.0, 5.0, 5.0, 5.0, 4.0, 1.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0] ==> Should have voted for יהדות התורה
+
+Person number 6 Who Voted for יש עתיד: [5.0, 2.0, 4.0, 5.0, 3.0, 3.0, 2.0, 4.0, 2.0, 2.0, 1.0, 4.0, 2.0, 4.0] ==> Should have voted for העבודה
+
+Person number 7 Who Voted for הימין החדש: [5.0, 3.0, 5.0, 4.0, 4.0, 3.0, 2.0, 3.0, 1.0, 1.0, 1.0, 4.0, 3.0, 3.0] ==> Should have voted for ישראל ביתנו
+
+Person number 8 Who Voted for כחול לבן: [5.0, 4.0, 5.0, 3.0, 3.0, 2.0, 4.0, 5.0, 3.0, 4.0, 4.0, 4.0, 1.0, 3.0] ==> Should have voted for העבודה
+
+Person number 9 Who Voted for הימין החדש: [5.0, 5.0, 5.0, 5.0, 5.0, 3.0, 1.0, 5.0, 2.0, 5.0, 5.0, 5.0, 1.0, 5.0] ==> Should have voted for הליכוד
+
+Person number 10 Who Voted for הליכוד: [5.0, 2.0, 5.0, 5.0, 3.0, 4.0, 2.0, 4.0, 1.0, 3.0, 3.0, 5.0, 4.0, 5.0] ==> Should have voted for כחול לבן
+
+Person number 11 Who Voted for העבודה: [5.0, 4.0, 5.0, 3.0, 4.0, 2.0, 4.0, 5.0, 2.0, 2.0, 2.0, 1.0, 1.0, 2.0] ==> Should have voted for מר'צ
+
+Person number 12 Who Voted for כחול לבן: [5.0, 4.0, 5.0, 3.0, 3.0, 1.0, 5.0, 3.0, 1.0, 4.0, 1.0, 2.0, 1.0, 3.0] ==> Should have voted for העבודה
+
+Person number 13 Who Voted for יש עתיד: [4.0, 3.0, 4.0, 4.0, 3.0, 3.0, 2.0, 4.0, 2.0, 2.0, 1.0, 4.0, 2.0, 5.0] ==> Should have voted for ישראל ביתנו
+
+Person number 14 Who Voted for הימין החדש: [5.0, 2.0, 5.0, 5.0, 2.0, 2.0, 4.0, 4.0, 2.0, 5.0, 2.0, 4.0, 2.0, 5.0] ==> Should have voted for העבודה
+
+Person number 15 Who Voted for העבודה: [2.0, 5.0, 4.0, 1.0, 5.0, 1.0, 5.0, 2.0, 5.0, 1.0, 1.0, 3.0, 1.0, 4.0] ==> Should have voted for הרשימה המשותפת
+
+Person number 16 Who Voted for העבודה: [2.0, 5.0, 5.0, 4.0, 4.0, 2.0, 1.0, 1.0, 1.0, 1.0, 2.0, 4.0, 1.0, 4.0] ==> Should have voted for ישראל ביתנו
+
+Person number 17 Who Voted for יש עתיד: [5.0, 5.0, 5.0, 4.0, 3.0, 3.0, 2.0, 5.0, 1.0, 1.0, 1.0, 4.0, 1.0, 4.0] ==> Should have voted for ישראל ביתנו
+
+Person number 18 Who Voted for מר"צ: [3.0, 5.0, 3.0, 2.0, 5.0, 3.0, 3.0, 3.0, 3.0, 2.0, 3.0, 4.0, 1.0, 3.0] ==> Should have voted for הרשימה המשותפת
+
+Person number 19 Who Voted for העבודה: [5.0, 3.0, 5.0, 3.0, 5.0, 1.0, 5.0, 2.0, 1.0, 4.0, 5.0, 5.0, 5.0, 5.0] ==> Should have voted for יש עתיד
+
+Person number 20 Who Voted for הימין החדש: [5.0, 4.0, 5.0, 3.0, 4.0, 3.0, 1.0, 5.0, 1.0, 3.0, 1.0, 4.0, 2.0, 4.0] ==> Should have voted for ישראל ביתנו        
+
+Person number 21 Who Voted for כחול לבן: [5.0, 3.0, 4.0, 4.0, 5.0, 2.0, 2.0, 4.0, 3.0, 3.0, 3.0, 5.0, 1.0, 4.0] ==> Should have voted for יש עתיד
+
+Person number 22 Who Voted for הליכוד: [5.0, 3.0, 5.0, 4.0, 4.0, 1.0, 5.0, 5.0, 1.0, 3.0, 4.0, 5.0, 2.0, 5.0] ==> Should have voted for יש עתיד
+
+Person number 23 Who Voted for הימין החדש: [5.0, 1.0, 5.0, 4.0, 4.0, 3.0, 3.0, 5.0, 2.0, 5.0, 5.0, 5.0, 1.0, 4.0] ==> Should have voted for ש'ס
+
+Person number 24 Who Voted for הימין החדש: [5.0, 2.0, 5.0, 5.0, 2.0, 2.0, 4.0, 4.0, 2.0, 5.0, 2.0, 4.0, 2.0, 5.0] ==> Should have voted for העבודה
+
+Person number 25 Who Voted for העבודה: [4.0, 4.0, 4.0, 4.0, 4.0, 1.0, 3.0, 3.0, 2.0, 1.0, 3.0, 2.0, 2.0, 3.0] ==> Should have voted for יש עתיד
+
+Person number 26 Who Voted for כחול לבן: [5.0, 5.0, 4.0, 3.0, 2.0, 5.0, 5.0, 5.0, 1.0, 5.0, 1.0, 5.0, 1.0, 5.0] ==> Should have voted for העבודה
+
+Person number 27 Who Voted for אחר: [4.0, 3.0, 3.0, 5.0, 3.0, 1.0, 3.0, 3.0, 5.0, 3.0, 3.0, 3.0, 5.0, 4.0] ==> Should have voted for כחול לבן
+
+Person number 28 Who Voted for העבודה: [4.0, 5.0, 5.0, 3.0, 5.0, 2.0, 5.0, 4.0, 5.0, 5.0, 1.0, 4.0, 2.0, 4.0] ==> Should have voted for יש עתיד
+
+Person number 29 Who Voted for הליכוד: [5.0, 1.0, 5.0, 5.0, 5.0, 3.0, 3.0, 5.0, 1.0, 5.0, 5.0, 5.0, 2.0, 5.0] ==> Should have voted for יהדות התורה
+
+Person number 30 Who Voted for העבודה: [4.0, 5.0, 5.0, 3.0, 5.0, 2.0, 5.0, 4.0, 5.0, 5.0, 1.0, 4.0, 2.0, 4.0] ==> Should have voted for יש עתיד
+
+Person number 31 Who Voted for יש עתיד: [3.0, 3.0, 5.0, 4.0, 2.0, 3.0, 3.0, 2.0, 1.0, 3.0, 5.0, 4.0, 4.0, 3.0] ==> Should have voted for כחול לבן
+
+Person number 32 Who Voted for הליכוד: [5.0, 4.0, 5.0, 5.0, 4.0, 3.0, 3.0, 5.0, 1.0, 4.0, 3.0, 4.0, 3.0, 4.0] ==> Should have voted for כחול לבן
+
+Person number 33 Who Voted for אחר: [4.0, 4.0, 4.0, 4.0, 5.0, 4.0, 2.0, 5.0, 1.0, 1.0, 1.0, 5.0, 5.0, 5.0] ==> Should have voted for ישראל ביתנו
+
+Person number 34 Who Voted for הימין החדש: [5.0, 2.0, 5.0, 5.0, 4.0, 4.0, 3.0, 5.0, 1.0, 4.0, 2.0, 5.0, 2.0, 3.0] ==> Should have voted for העבודה
+
+Person number 35 Who Voted for יש עתיד: [4.0, 5.0, 5.0, 5.0, 5.0, 1.0, 4.0, 4.0, 4.0, 4.0, 2.0, 3.0, 4.0, 4.0] ==> Should have voted for יש עתיד
+
+Person number 36 Who Voted for הליכוד: [5.0, 2.0, 5.0, 5.0, 3.0, 4.0, 2.0, 5.0, 5.0, 2.0, 3.0, 4.0, 3.0, 4.0] ==> Should have voted for כחול לבן
+
+Person number 37 Who Voted for יש עתיד: [5.0, 3.0, 5.0, 5.0, 5.0, 2.0, 4.0, 5.0, 4.0, 4.0, 5.0, 4.0, 3.0, 4.0] ==> Should have voted for יהדות התורה
+
+Person number 38 Who Voted for העבודה: [4.0, 4.0, 4.0, 3.0, 4.0, 1.0, 4.0, 4.0, 3.0, 2.0, 1.0, 5.0, 1.0, 5.0] ==> Should have voted for יש עתיד
+
+Person number 39 Who Voted for הליכוד: [5.0, 3.0, 5.0, 4.0, 4.0, 3.0, 3.0, 3.0, 1.0, 3.0, 2.0, 4.0, 4.0, 4.0] ==> Should have voted for כחול לבן
+
+Person number 40 Who Voted for הימין החדש: [4.0, 4.0, 5.0, 5.0, 2.0, 3.0, 4.0, 4.0, 2.0, 3.0, 4.0, 5.0, 2.0, 5.0] ==> Should have voted for כחול לבן
+
+Person number 41 Who Voted for הימין החדש: [5.0, 2.0, 5.0, 4.0, 4.0, 1.0, 4.0, 5.0, 1.0, 3.0, 4.0, 4.0, 1.0, 3.0] ==> Should have voted for העבודה
+
+Person number 42 Who Voted for הליכוד: [5.0, 2.0, 5.0, 4.0, 4.0, 4.0, 2.0, 2.0, 1.0, 3.0, 4.0, 4.0, 3.0, 4.0] ==> Should have voted for כחול לבן

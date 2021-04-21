@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "civilstudies",
+  "private_key_id": "8986fd8047c9c24522df9e4b45041cee58c5ed67",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCiXs6ok4k5l2ij\nQmi+dTW03lrth1BA6SyVY3lNSQgEFO9LUh+nb3R2yrAEziE6ihZTw6TeonRuaHr0\nLxig0vh4jvYzL2IOsE6nSp4qRd54oLV6G5vjR0raCaiSZaq0I2nCsHd4FzQG+wxc\nKZ1UpKxnXk5+FJxFpems30AkOYBH4RVAVHK8+XjXhK1la7W7rrO/XkdMe2xRYBYq\n21c0slaiXvIsfiCMccGNHl9koU1s8h3G8vARrycYwZ6voMxxdpzNy4H5zBa36Kjj\noRg7THZB0/0d+4xoRWzlNbnwMcXZsTBP1y9c5ukjSuRMTpcNUzoVfeji9RjzhUHY\nUG9x8jjRAgMBAAECgf9QUa0AE/tZU0a1e96DEo840gtAACP4skhbnarX7V/D6vRF\n2bcUp/ZRtcNcnSaM/TY8xP893JMwOQpq12zjCgUlQNi3kHMIc//owUZk6Lav3eb+\n9KlW8u1CkSd1FTK5Lyh/DvqVyljyMlTq5R9jBVhxycB+neH1qUt6ISQN3pJn5A7H\nd6XA4OYInZLB52CaKvB4roUnRa3aYEqOWu3UNm/ou12AiQkD5MnQ4utcNIKvZFav\nDvq1+BcG/eDRJgQRt9ana6ChUBvVyFEbODxcrWRP+Xxn2jGZuJ2DEDHOYZFBno4R\nsDjO+aCKgRvTXL9MarhAEjBA3XgV4Y7CYDx6Dq0CgYEA0DBqGkZGEv8jNM/OQtdM\ny/zhHksc0EZyVFyU+xo5IXtGkE026VupaTe91JCu/Cslvkya21CHcRyZfgGI45NK\nKFJkBAqTJKOSkxhlaEHBfJtNuTqqEs1yVxphIzfGPy5ilvrgCjxqV4rLnjoaB5kU\ngGiB8FsmIdw70Gizhi3LlD8CgYEAx6ispzmK73y9ayZijUB0eX0NcQLkXpeW6CsP\nt291i6YcPQLysfFW/B0QZk8xPxnusOvZlshtNqKtMFH3uBg7thKuC1b+HSbAACY4\nbEWeN8mev1oWvcoLEXY1TADzUQEe1MUg00LSbi+psu9BL3k+IxnVxv2AIo/fBes+\npKXgru8CgYBLTygihwc0OfznTsCjJzTNmZVpmuw6XzFeWPs/djXyaaCV9IiHk7PN\nru9JZGkYKReHJjjiWtgTz6+qiC2XfSFXQq6RU630lAMimLGeLCMsyxUrixAYqx7Q\naWd4EOXy1vms+eVvbnldX4TWoNfnpbVn2eYfJym9F+i/NBC02f4JiwKBgHvJ56oS\nskKDy4k4llfPg6ejUgckbOT9BbJSqH7p2y5HQjDNuB19bZoIhxd3uCfQcz48LH8h\nKx15xPk1iOoaFENx13juacU3NkmhaNAwZcVe+07Wk0z+jNg5uxexayppEG2I/y4c\nuw1X/dYUIw1FFbJ7nSCwIZbMLtGjpgY9Vk3/AoGAdXBHrbU69u7Yqw9SN8mZe4JU\nJKLfGNvuU9s51zynlpI3h3HGoNWfZR+fIwNcnreRoToSgZNlBbG7S/EezF/5asXJ\nyT8pg5dhMRbQcGjeSzSPzV89zGvzBYixiPNBz6gzXSk4ArxjsNufdjwMU9vFb0ph\nySeO24bELVUthD+r178=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fizzy-147@civilstudies.iam.gserviceaccount.com",
+  "client_id": "102739693641515756942",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fizzy-147%40civilstudies.iam.gserviceaccount.com"
+}
